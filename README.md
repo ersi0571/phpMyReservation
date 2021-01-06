@@ -40,5 +40,9 @@ Fork of [OleJon's](http://www.olejon.net) wonderful timeslot booking system for 
 7. Create a new user. The first created user will get admin rights
 8. Set the price per reservation in the control panel (just set to 0 if usage is free) 
 
+next task : update this fork to exclude timeslots from reservation (timeslots reserved for maintenance purpose)
+
+
 ####Reservation reminders
 [Email reminders are documented here](doc/ReservationReminders.md)
+
